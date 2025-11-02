@@ -36,7 +36,7 @@ const Hero = () => {
           <div className="animate-fade-in">
             <p className="text-primary text-lg mb-4 font-medium">Hi, I'm</p>
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
-              <span className="gradient-text">Software Engineer</span>
+              <span className="gradient-text">Sarvesh Bhardwaj</span>
             </h1>
             <p className="text-xl md:text-2xl text-foreground/70 mb-8 max-w-2xl mx-auto">
               Crafting elegant solutions to complex problems through clean code and innovative design
